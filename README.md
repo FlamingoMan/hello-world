@@ -1,2 +1,4 @@
 # hello-world
-Short Description
+
+ Hello,  this is my first thing on GitHub.
+ I hope you enjoy.
